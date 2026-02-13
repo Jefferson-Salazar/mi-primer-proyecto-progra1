@@ -1,5 +1,16 @@
 # mi-primer-proyecto-progra1
-Mi primer proyecto en Programación 1
 
-Aprendiendo Git y GitHub.
+Mi Primer Proyecto
+
+
+
+Este es un proyecto de práctica para aprender Git y GitHub de Programación 1.
+
+
+
+Nombres de los integrantes:
+
+Jefferson Osberto Salazar Escobar
+
+
 
