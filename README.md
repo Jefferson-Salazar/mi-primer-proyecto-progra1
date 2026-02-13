@@ -16,3 +16,5 @@ Jefferson Osberto Salazar Escobar
 
 Nota: Estoy aprendiendo a usar git.
 
+Nota: Quiero aprender a programar.
+
